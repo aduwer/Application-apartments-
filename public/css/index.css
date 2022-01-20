@@ -1,0 +1,47 @@
+html{
+    scroll-behavior: smooth;
+}
+
+h2{
+text-align:center;
+}
+
+.photo{
+    width: 100%;
+}
+.row{
+    width: 110%;
+}
+
+
+.masthead{
+    background-image: url("tlo.JPG");
+    background-size:cover;
+    background-position:center;
+    color: white;
+}
+
+
+input{ 
+    width: 50%
+}
+
+textarea{
+    width: 50%
+}
+
+.maps{
+    height: 450px;
+    
+}
+
+iframe{
+    height: 450px;
+    width: 100%;
+}
+
+.photo-content{
+    margin-top: -150px;
+}
+
+

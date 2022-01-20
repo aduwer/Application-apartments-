@@ -1,0 +1,24 @@
+.footer-content{
+    position:absolute;
+    bottom:0;
+    width: 100%;
+    
+}
+
+.footer-position{
+    margin-bottom: -50px;
+}
+
+@media screen and (max-width: 767px) 
+{
+    .card{
+        margin-top: -85px;
+    }
+
+    .media-button{
+        margin-top: -10px;
+    }
+}
+
+
+

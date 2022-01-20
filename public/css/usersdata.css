@@ -1,0 +1,29 @@
+.content{
+    margin-top:-60px;
+}
+
+.form-size{
+    width:400px;
+    position:relative; left: 360px;
+}
+
+.password-content{
+    margin-top: -56px;
+}
+
+.bt-content{
+    margin-left: 15px;
+}
+
+
+@media screen and (max-width: 992px) 
+{
+    .password-content{
+        margin-top: 20px;
+    }
+
+    .bt-content{
+        width: 50%;
+    }
+
+}
